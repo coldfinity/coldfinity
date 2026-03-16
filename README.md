@@ -77,10 +77,10 @@ YOLO-based object detection pipeline with:
 ![GitHub Streak](https://streak-stats.demolab.com?user=coldfinity&theme=dark&hide_border=true)
 
 ### 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldfinity&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldfinity&theme=dark&show_icons=true&hide_border=true)
 
 ### 🧮 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&theme=dark&hide_border=true)
 
 ---
 
