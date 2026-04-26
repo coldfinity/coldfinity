@@ -13,7 +13,6 @@
 - 🤖 Passionate about Machine Learning, LLMs, and Intelligent Systems
 - 📊 Strong foundation in Mathematics & Algorithms
 - ⚙️ Interested in high-performance systems & optimization
-- 🚀 Building production-style AI tools, not tutorial projects
 
 ---
 
@@ -24,29 +23,6 @@
 - Model optimization & deployment  
 - Reinforcement learning systems  
 - AI-powered analytics tools  
-
----
-
-## 🚀 Highlight Projects
-
-### 🧠 AI Draft Intelligence System
-Meta-aware League draft assistant using:
-- Riot API data ingestion
-- Probabilistic win modeling
-- Team composition evaluation
-- Recommendation scoring engine
-- Planned interactive UI
-
-### 👁️ Real-Time Vision System
-YOLO-based object detection pipeline with:
-- Live camera feed
-- Bounding box classification
-- Model performance tuning
-
-### 🧮 Systems & Low-Level Work
-- MARIE Assembly graphics manipulation
-- Memory-level character rendering
-- Subroutine-based architecture design
 
 ---
 
@@ -84,20 +60,8 @@ YOLO-based object detection pipeline with:
 
 ---
 
-## 🧩 Engineering Philosophy
-
-> Build systems that scale.  
-> Use math to guide decisions.  
-> Optimize for performance, not aesthetics.  
-> Ship real tools.
-
----
 
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/yudi-wu-34bb98192/
 - Email: wuyd0815@gmail.com
-
----
-
-⭐ Currently building intelligent systems at the intersection of AI and high-performance computing.
