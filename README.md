@@ -1,49 +1,25 @@
-<h1 align="center">Yudi Wu</h1>
-<h3 align="center">AI Engineer | Machine Learning </h3>
-
-<p align="center">
-  Building intelligent systems powered by data, math, and scale.
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science student (AI-focused)
-- 🤖 Passionate about Machine Learning, LLMs, and Intelligent Systems
-- 📊 Strong foundation in Mathematics & Algorithms
-- ⚙️ Interested in high-performance systems & optimization
+<div align="center">
+  
+# yudi
+**cs + mathematics @ monash** &nbsp;·&nbsp; building things at the intersection of theory and practice
+ 
+</div>
 
 ---
 
-## 🔬 Current Focus
+## about 
 
-- Large Language Models & AI agents  
-- Data-driven decision systems  
-- Model optimization & deployment  
-- Reinforcement learning systems  
-- AI-powered analytics tools  
+I'm a computer science and mathematics student interested in artificial intelligence, machine learning, and deep learning. I like understanding *why* things work, whether that's a proof, a model, or a data pipeline.
 
 ---
 
-## 🛠 Tech Stack
+## skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikit-learn)
-
-
-### Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![Neovim](https://img.shields.io/badge/Neovim-111?style=for-the-badge&logo=neovim)
+```
+Languages     Python · R · C++ · SQL · JS · Bash
+ML / Data     pytorch · tensorflow · scikit-learn · pandas · ggplot2
+Tools         Neovim · Git · LaTeX · Obsidian · R Markdown
+```
 
 ---
 
@@ -60,8 +36,7 @@
 
 ---
 
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/yudi-wu-34bb98192/
-- Email: wuyd0815@gmail.com
+<div align="center">
+[email me](mailto:wuyd0815@gmail.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/yudi-wu-34bb98192/) &nbsp;·&nbsp; open to internships & collaborations
+ 
+</div>
