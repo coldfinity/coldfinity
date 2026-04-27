@@ -7,13 +7,13 @@
 
 ---
 
-## about 
+### about 
 
 I'm a computer science and mathematics student interested in artificial intelligence, machine learning, and deep learning. I like understanding *why* things work, whether that's a proof, a model, or a data pipeline.
 
 ---
 
-## skills
+### skills
 
 ```
 Languages     Python · R · C++ · SQL · JS · Bash
@@ -23,20 +23,19 @@ Tools         Neovim · Git · LaTeX · Obsidian · R Markdown
 
 ---
 
-## 📊 GitHub Analytics
+### stats
 
-### 🔥 Contribution Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=coldfinity&theme=dark&hide_border=true)
+<div align="center">
 
-### 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldfinity&theme=dark&show_icons=true&hide_border=true)
 
-### 🧮 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&layout=compact&hide_border=true&theme=dark)
+ 
+</div>
 
 ---
 
 <div align="center">
+  
 [email me](mailto:wuyd0815@gmail.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/yudi-wu-34bb98192/) &nbsp;·&nbsp; open to internships & collaborations
  
 </div>
