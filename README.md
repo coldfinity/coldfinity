@@ -20,22 +20,3 @@ Languages     Python · R · C++ · SQL · JS · Bash
 ML / Data     pytorch · tensorflow · scikit-learn · pandas · ggplot2
 Tools         Neovim · Git · LaTeX · Obsidian · R Markdown
 ```
-
----
-
-### stats
-
-<div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&layout=compact&hide_border=true&theme=dark)
- 
-</div>
-
----
-
-<div align="center">
-  
-[email me](mailto:wuyd0815@gmail.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/yudi-wu-34bb98192/) &nbsp;·&nbsp; open to internships & collaborations
- 
-</div>
