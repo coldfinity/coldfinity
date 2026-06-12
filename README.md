@@ -21,18 +21,6 @@ focus:
 currently_building: dynabeta   # statistical arbitrage engine
 ```
 
-<br/>
-
-## featured
-
-### dynabeta — statistical arbitrage via cointegration
-
-pairs trading engine built on engle–granger & johansen cointegration tests, ornstein–uhlenbeck spread modelling, and kalman-filter dynamic hedge ratio estimation. walk-forward backtesting with realistic transaction costs.
-
-`python` `statsmodels` `kalman filters` `stochastic processes`
-
-<br/>
-
 ## stack
 
 <div align="center">
@@ -48,30 +36,6 @@ pairs trading engine built on engle–granger & johansen cointegration tests, or
 ![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Typst](https://img.shields.io/badge/typst-000000?style=for-the-badge&logo=typst&logoColor=white)
-
-</div>
-
-<br/>
-
-## stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coldfinity&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api?username=coldfinity&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=616161&ring_color=000000" height="165" alt="github stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9e9e9e">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldfinity&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=616161" height="165" alt="top languages"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=coldfinity&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&stroke=9e9e9e&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9e9e9e&dates=616161">
-  <img src="https://streak-stats.demolab.com/?user=coldfinity&hide_border=true&background=00000000&ring=000000&fire=000000&stroke=616161&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=616161&dates=9e9e9e" alt="contribution streak"/>
-</picture>
 
 </div>
 
