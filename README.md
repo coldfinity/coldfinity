@@ -1,48 +1,33 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=coldfinity;mathematics+%C3%97+computer+science">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=coldfinity;mathematics+%C3%97+computer+science" alt="coldfinity — mathematics × computer science"/>
-</picture>
+# coldfinity
+
+*n. the limit of a system as its temperature approaches absolute zero — also, a mathematician who never stopped coding*
 
 </div>
 
-```math
-\begin{aligned}
-\text{Definition 1.1 (coldfinity)} \\[2mm]
-\mathbb{X} &= \{\text{mathematics},\ \text{computer science}\} \\
-\mathrm{coldfinity}:\ \mathbb{X} &\to \mathbb{X} \times \mathrm{quantitative\ finance} \\
-\mathrm{focus} &\subseteq \{\text{ai/ml},\ \text{stat arb},\ \text{stochastic processes},\ \text{time series}\} \\
-\mathrm{currently\_building} &= \mathrm{dynabeta} \quad (\text{statistical arbitrage engine})
-\end{aligned}
-```
-
-## toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/r-000000?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Typst](https://img.shields.io/badge/typst-000000?style=for-the-badge&logo=typst&logoColor=white)
-
-</div>
+---
 
 ```math
-\text{Axiom (philosophy)} \qquad \mathrm{markets\ are\ stochastic} \implies \mathrm{pick\ your\ battles}
+\lim_{T \to 0} S(T) = S_0
 ```
 
-**Fig. 1** — contribution matrix, last 52 weeks
+*coldfinity: the state where noise has been frozen out.*
 
-<img src="assets/matrix-contribution-graph.svg" width="100%" alt="coldfinity contribution matrix" loading="lazy"/>
+## interests
 
-```math
-\blacksquare
-```
+- **machine learning** — models, theory, and the math underneath
+- **quantitative finance** — statistical arbitrage, stochastic processes, time series
+
+## currently working on
+
+<!-- RECENT:START -->
+- [dotfiles](https://github.com/coldfinity/dotfiles) — hypr: stop running hypridle — nothing idles automatically now · today
+- [nexus](https://github.com/coldfinity/nexus) — Auto-refresh the git tree via a .git FSEvents watcher · 26 days ago
+- [dynabeta](https://github.com/coldfinity/dynabeta) — package-lock · 47 days ago
+- [transformer-from-scratch](https://github.com/coldfinity/transformer-from-scratch) — docs: minor issues with README · 49 days ago
+<!-- RECENT:END -->
+
+## axiom
+
+> Markets are stochastic. Pick your battles.
