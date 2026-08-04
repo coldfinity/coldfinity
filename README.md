@@ -47,8 +47,17 @@ currently_building: dynabeta   # statistical arbitrage engine
 "markets are stochastic. pick your battles."
 ```
 
-<div align="center">
+```text
+┌─[coldfinity@github]─[~]
+└──╼ $ matrix
+```
 
-`────────────────────────  end of file  ────────────────────────`
+<img src="assets/matrix-contribution-graph.svg" width="100%" alt="coldfinity contribution matrix" loading="lazy"/>
 
-</div>
+```text
+        _    _  __ _      _ _
+ __ ___| |__| |/ _(_)_ _ (_) |_ _  _
+/ _/ _ \ / _` |  _| | ' \| |  _| || |
+\__\___/_\__,_|_| |_|_||_|_|\__|\_, |
+                                |__/
+```
