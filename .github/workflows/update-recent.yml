@@ -20,8 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch latest commits and update README
-        run: python3 scripts/update_recent.py
+      - name: Generate chalkboard with latest commits
+        run: python3 scripts/generate_chalkboard.py
         env:
           GH_USERNAME: coldfinity
 
@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "chore: update recently working on"
+          git add README.md assets/chalkboard.svg
+          git diff --cached --quiet || git commit -m "chore: update chalkboard"
           git push
