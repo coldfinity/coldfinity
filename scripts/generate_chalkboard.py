@@ -21,7 +21,7 @@ from pathlib import Path
 
 USER = os.environ.get("GH_USERNAME", "coldfinity")
 MAX_ITEMS = 5
-W, H = 1200, 1560
+W, H = 1200, 1900
 CX = W / 2
 
 CHALK_FONT = "'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive"
@@ -128,7 +128,7 @@ def wood_grain() -> str:
     parts = []
     for _ in range(26):
         x = rng.uniform(20, 1180)
-        y = rng.uniform(20, 1520)
+        y = rng.uniform(20, 1840)
         w = rng.uniform(1, 3)
         h = rng.uniform(60, 240)
         op = rng.uniform(0.04, 0.11)
@@ -144,7 +144,7 @@ def board_texture() -> str:
     parts = []
     for _ in range(650):
         x = rng.uniform(72, 1128)
-        y = rng.uniform(72, 1468)
+        y = rng.uniform(72, 1808)
         r = rng.uniform(0.4, 1.5)
         op = rng.uniform(0.03, 0.10)
         parts.append(
@@ -159,7 +159,7 @@ def smudges() -> str:
     parts = []
     for _ in range(14):
         x = rng.uniform(180, 1020)
-        y = rng.uniform(140, 1400)
+        y = rng.uniform(140, 1760)
         rx = rng.uniform(70, 230)
         ry = rng.uniform(8, 34)
         rot = rng.uniform(-24, 24)
@@ -176,7 +176,7 @@ def streaks() -> str:
     rng = random.Random(13)
     parts = []
     for _ in range(10):
-        y = rng.uniform(90, 1450)
+        y = rng.uniform(90, 1780)
         x1 = rng.uniform(80, 220)
         x2 = rng.uniform(980, 1120)
         w = rng.uniform(1, 3)
@@ -191,7 +191,7 @@ def streaks() -> str:
 def screws() -> str:
     rng = random.Random(17)
     parts = []
-    for x, y in [(52, 52), (1148, 52), (52, 1492), (1148, 1492)]:
+    for x, y in [(52, 52), (1148, 52), (52, 1812), (1148, 1812)]:
         parts.append(
             f'<circle cx="{x}" cy="{y}" r="9" fill="#d7c79d" stroke="#6f4f2a" stroke-width="2"/>'
         )
@@ -206,10 +206,10 @@ def screws() -> str:
 
 def chalk_pieces() -> str:
     pieces = [
-        (420, 1487, 62, 9, CHALK),
-        (494, 1488, 72, 9, CHALK_YELLOW),
-        (576, 1487, 54, 9, CHALK_SOFT),
-        (880, 1488, 66, 9, CHALK),
+        (420, 1829, 62, 9, CHALK),
+        (494, 1830, 72, 9, CHALK_YELLOW),
+        (576, 1829, 54, 9, CHALK_SOFT),
+        (880, 1830, 66, 9, CHALK),
     ]
     parts = []
     for x, y, w, h, color in pieces:
@@ -222,21 +222,25 @@ def chalk_pieces() -> str:
 
 def render_items(items: list[dict]) -> str:
     if not items:
-        return text(210, 800, "no public commits right now", size=22, anchor="start", fill=CHALK_SOFT)
+        return text(210, 992, "no public commits right now", size=28, anchor="start", fill=CHALK_SOFT)
     parts = []
-    y = 800
+    y = 992
     for item in items:
         name = esc(item["name"])
-        detail = f"{esc(item['message'])} · {esc(item['age'])}"
+        detail = f"{esc(item['age'])}"
+        message = esc(item["message"])
         parts.append(
-            f'<text x="210" y="{y}" font-family="{CHALK_FONT}" font-size="22" '
+            f'<text x="170" y="{y}" font-family="{CHALK_FONT}" font-size="30" '
             f'text-anchor="start" fill-opacity="0.92">'
             f'<tspan fill="{CHALK}">▸ </tspan>'
             f'<tspan font-weight="bold" fill="{CHALK_YELLOW}">{name}</tspan>'
-            f'<tspan fill="{CHALK_SOFT}"> — {detail}</tspan>'
+            f'<tspan fill="{CHALK_SOFT}"> · {detail}</tspan>'
             f'</text>'
+            f'\n'
+            f'<text x="230" y="{y + 40}" font-family="{CHALK_FONT}" font-size="26" '
+            f'text-anchor="start" fill="{CHALK_SOFT}" fill-opacity="0.9">{message}</text>'
         )
-        y += 76
+        y += 104
     return "\n".join(parts)
 
 
@@ -245,11 +249,11 @@ def build_svg(items: list[dict]) -> str:
     definition = wrap_words(
         "n. the limit of a system as its temperature approaches absolute zero "
         "— also, a mathematician who never stopped coding",
-        24,
-        820,
+        30,
+        980,
     )
     def_lines = "\n".join(
-        text(CX, 236 + i * 32, line, size=24, fill=CHALK_SOFT)
+        text(CX, 322 + i * 46, line, size=30, fill=CHALK_SOFT)
         for i, line in enumerate(definition)
     )
 
@@ -278,39 +282,39 @@ def build_svg(items: list[dict]) -> str:
     </radialGradient>
   </defs>
 
-  <rect x="18" y="18" width="1164" height="1504" rx="10" fill="url(#wood)"/>
+  <rect x="18" y="18" width="1164" height="1844" rx="10" fill="url(#wood)"/>
   {wood_grain()}
-  <rect x="34" y="34" width="1132" height="1472" rx="8" fill="#241409" fill-opacity="0.55"/>
-  <rect x="60" y="60" width="1080" height="1420" rx="4" fill="url(#board)"/>
+  <rect x="34" y="34" width="1132" height="1812" rx="8" fill="#241409" fill-opacity="0.55"/>
+  <rect x="60" y="60" width="1080" height="1760" rx="4" fill="url(#board)"/>
   {board_texture()}
   {streaks()}
   {smudges()}
-  <rect x="60" y="60" width="1080" height="1420" rx="4" fill="url(#vignette)"/>
+  <rect x="60" y="60" width="1080" height="1760" rx="4" fill="url(#vignette)"/>
 
-  {text(CX, 150, "cold\u221efinity", size=84, weight="bold", opacity=0.95)}
+  {text(CX, 190, "cold\u221efinity", size=118, weight="bold", opacity=0.95)}
   {def_lines}
 
-  <text x="{CX}" y="360" font-family="{MONO_FONT}" font-size="34" fill="{CHALK}" text-anchor="middle" fill-opacity="0.94">
-    <tspan>lim</tspan><tspan baseline-shift="sub" font-size="20">T → 0</tspan><tspan> S(T) = S</tspan><tspan baseline-shift="sub" font-size="20">0</tspan>
+  <text x="{CX}" y="462" font-family="{MONO_FONT}" font-size="46" fill="{CHALK}" text-anchor="middle" fill-opacity="0.94">
+    <tspan>lim</tspan><tspan baseline-shift="sub" font-size="27">T → 0</tspan><tspan> S(T) = S</tspan><tspan baseline-shift="sub" font-size="27">0</tspan>
   </text>
-  <line x1="430" y1="378" x2="770" y2="378" stroke="{CHALK}" stroke-width="2" stroke-opacity="0.55"/>
-  {text(CX, 412, "coldfinity: the state where noise has been frozen out.", size=19, fill=CHALK_DIM)}
+  <line x1="420" y1="486" x2="780" y2="486" stroke="{CHALK}" stroke-width="2" stroke-opacity="0.55"/>
+  {text(CX, 532, "coldfinity: the state where noise has been frozen out.", size=26, fill=CHALK_DIM)}
 
-  {text(CX, 500, "\u2207 interests", size=30, fill=CHALK_YELLOW, weight="bold")}
-  {text(CX, 550, "\u25b8 machine learning", size=24, weight="bold")}
-  {text(CX, 582, "models, theory, and the math underneath", size=21, fill=CHALK_SOFT)}
-  {text(CX, 636, "\u25b8 quantitative finance", size=24, weight="bold")}
-  {text(CX, 668, "statistical arbitrage \u00b7 stochastic processes \u00b7 time series", size=21, fill=CHALK_SOFT)}
+  {text(CX, 624, "\u2207 interests", size=42, fill=CHALK_YELLOW, weight="bold")}
+  {text(CX, 684, "\u25b8 machine learning", size=34, weight="bold")}
+  {text(CX, 726, "models, theory, and the math underneath", size=29, fill=CHALK_SOFT)}
+  {text(CX, 794, "\u25b8 quantitative finance", size=34, weight="bold")}
+  {text(CX, 836, "statistical arbitrage \u00b7 stochastic processes \u00b7 time series", size=29, fill=CHALK_SOFT)}
 
-  {text(CX, 740, "\u27f6 currently working on", size=30, fill=CHALK_YELLOW, weight="bold")}
+  {text(CX, 916, "\u27f6 currently working on", size=42, fill=CHALK_YELLOW, weight="bold")}
   {render_items(items)}
 
-  {text(CX, 1210, "\u25a1 axiom", size=30, fill=CHALK_YELLOW, weight="bold")}
-  {text(CX, 1270, "\u201cMarkets are stochastic. Pick your battles.\u201d", size=28, italic=True, opacity=0.95)}
-  {text(CX, 1350, "\u2500\u2500\u2500\u2500\u2500\u2500  0 K  \u2500\u2500\u2500\u2500\u2500\u2500", size=18, fill=CHALK_DIM, font=MONO_FONT)}
+  {text(CX, 1530, "\u25a1 axiom", size=42, fill=CHALK_YELLOW, weight="bold")}
+  {text(CX, 1598, "\u201cMarkets are stochastic. Pick your battles.\u201d", size=38, italic=True, opacity=0.95)}
+  {text(CX, 1678, "\u2500\u2500\u2500\u2500\u2500\u2500  0 K  \u2500\u2500\u2500\u2500\u2500\u2500", size=26, fill=CHALK_DIM, font=MONO_FONT)}
 
-  <rect x="120" y="1482" width="960" height="26" rx="3" fill="url(#trayWood)"/>
-  <rect x="120" y="1482" width="960" height="4" fill="#000000" fill-opacity="0.25"/>
+  <rect x="120" y="1824" width="960" height="26" rx="3" fill="url(#trayWood)"/>
+  <rect x="120" y="1824" width="960" height="4" fill="#000000" fill-opacity="0.25"/>
   {chalk_pieces()}
   {screws()}
 </svg>
