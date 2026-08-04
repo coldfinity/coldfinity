@@ -7,21 +7,17 @@
 
 </div>
 
-```text
-┌─[coldfinity@github]─[~]
-└──╼ $ whoami
+```math
+\begin{aligned}
+\text{Definition 1.1 (coldfinity)} \\[2mm]
+\mathbb{X} &= \{\text{mathematics},\ \text{computer science}\} \\
+\mathrm{coldfinity}:\ \mathbb{X} &\to \mathbb{X} \times \mathrm{quantitative\ finance} \\
+\mathrm{focus} &\subseteq \{\text{ai/ml},\ \text{stat arb},\ \text{stochastic processes},\ \text{time series}\} \\
+\mathrm{currently\_building} &= \mathrm{dynabeta} \quad (\text{statistical arbitrage engine})
+\end{aligned}
 ```
 
-```yaml
-name: coldfinity
-role: mathematics & computer science student
-focus:
-  - ai / ml — models, theory, and the math underneath
-  - quantitative finance — stat arb, stochastic processes, time series
-currently_building: dynabeta   # statistical arbitrage engine
-```
-
-## stack
+## toolkit
 
 <div align="center">
 
@@ -39,17 +35,14 @@ currently_building: dynabeta   # statistical arbitrage engine
 
 </div>
 
-<br/>
-
-```text
-┌─[coldfinity@github]─[~]
-└──╼ $ echo $PHILOSOPHY
-"markets are stochastic. pick your battles."
+```math
+\text{Axiom (philosophy)} \qquad \mathrm{markets\ are\ stochastic} \implies \mathrm{pick\ your\ battles}
 ```
 
-```text
-┌─[coldfinity@github]─[~]
-└──╼ $ matrix
-```
+**Fig. 1** — contribution matrix, last 52 weeks
 
 <img src="assets/matrix-contribution-graph.svg" width="100%" alt="coldfinity contribution matrix" loading="lazy"/>
+
+```math
+\blacksquare
+```
