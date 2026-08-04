@@ -8,6 +8,7 @@ rest of the README stays untouched.
 """
 
 import json
+import html
 import os
 import re
 import sys
@@ -58,13 +59,17 @@ def collect() -> list[str]:
             continue
         commit = commits[0]
         message = commit["commit"]["message"].splitlines()[0].strip()
+        name = html.escape(name)
+        message = html.escape(message)
+        age = html.escape(when(commit["commit"]["committer"]["date"]))
         items.append(
-            f"- [{name}]({repo['html_url']}) — {message} · "
-            f"{when(commit['commit']['committer']['date'])}"
+            f'<li><a href="{repo["html_url"]}">'
+            f'<font color="#eef6ee">{name}</font></a> '
+            f'<font color="#d6e8d6">— {message} · {age}</font></li>'
         )
         if len(items) >= MAX_ITEMS:
             break
-    return items or ["- no public commits right now"]
+    return items or ['<li><font color="#d6e8d6">no public commits right now</font></li>']
 
 
 def main() -> None:
