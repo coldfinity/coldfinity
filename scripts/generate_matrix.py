@@ -41,8 +41,8 @@ GRID_Y = 94
 CAPTION_Y = 34
 FOOTER_Y = 198
 RAIN_X0 = 34
-RAIN_PITCH = 10
-RAIN_COLS = 74
+RAIN_PITCH = 20
+RAIN_COLS = 37
 
 LEVELS = {
     "NONE": 0,
@@ -117,13 +117,13 @@ def build_rain(rng):
     cols = []
     x = RAIN_X0
     for _ in range(RAIN_COLS):
-        glyphs = [rng.choice(GLYPHS) for _ in range(rng.randint(4, 8))]
-        head = rng.random() < 0.8
+        glyphs = [rng.choice(GLYPHS) for _ in range(rng.randint(2, 5))]
+        head = rng.random() < 0.5
         cols.append(
             {
                 "x": x,
-                "duration": round(rng.uniform(1.8, 3.6), 2),
-                "delay": round(rng.uniform(0, 5.5), 2),
+                "duration": round(rng.uniform(2.5, 5.0), 2),
+                "delay": round(rng.uniform(0, 7), 2),
                 "head": head,
                 "glyphs": glyphs,
             }
@@ -196,7 +196,7 @@ def render_svg(days, total, seed):
         head_fill = RAIN_HEAD if col["head"] else RAIN_DIM
         for idx, glyph in enumerate(col["glyphs"]):
             y = idx * 18
-            opacity = 0.9 if idx == 0 else round(rng.uniform(0.25, 0.7), 2)
+            opacity = 0.75 if idx == 0 else round(rng.uniform(0.1, 0.4), 2)
             fill = head_fill if idx == 0 else RAIN_DIM
             parts.append(
                 f'<text x="{col["x"]}" y="{y}" fill="{fill}" opacity="{opacity}" '

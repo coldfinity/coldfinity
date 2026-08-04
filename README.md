@@ -53,11 +53,3 @@ currently_building: dynabeta   # statistical arbitrage engine
 ```
 
 <img src="assets/matrix-contribution-graph.svg" width="100%" alt="coldfinity contribution matrix" loading="lazy"/>
-
-```text
-        _    _  __ _      _ _
- __ ___| |__| |/ _(_)_ _ (_) |_ _  _
-/ _/ _ \ / _` |  _| | ' \| |  _| || |
-\__\___/_\__,_|_| |_|_||_|_|\__|\_, |
-                                |__/
-```

@@ -402,590 +402,210 @@
 <rect x="616" y="160" width="9" height="9"/>
 </g>
 <g id="rain">
-<g class="col" style="animation-duration:3.13s;animation-delay:3.72s">
-<text x="34" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">イ</text>
-<text x="34" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">1</text>
-<text x="34" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ツ</text>
-<text x="34" y="54" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">タ</text>
-</g>
-<g class="col" style="animation-duration:1.85s;animation-delay:1.09s">
-<text x="44" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">カ</text>
-<text x="44" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ヨ</text>
-<text x="44" y="36" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">フ</text>
-<text x="44" y="54" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ウ</text>
-<text x="44" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">イ</text>
-<text x="44" y="90" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">カ</text>
-<text x="44" y="108" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">セ</text>
-<text x="44" y="126" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ソ</text>
-</g>
-<g class="col" style="animation-duration:2.09s;animation-delay:2.32s">
-<text x="54" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ヒ</text>
-<text x="54" y="18" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">ソ</text>
-<text x="54" y="36" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">ヘ</text>
-<text x="54" y="54" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ヨ</text>
-<text x="54" y="72" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ツ</text>
-<text x="54" y="90" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">5</text>
-<text x="54" y="108" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">9</text>
-<text x="54" y="126" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">ア</text>
-</g>
-<g class="col" style="animation-duration:2.45s;animation-delay:1.89s">
-<text x="64" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">コ</text>
-<text x="64" y="18" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">セ</text>
-<text x="64" y="36" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">2</text>
-<text x="64" y="54" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">ニ</text>
-<text x="64" y="72" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">キ</text>
-<text x="64" y="90" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">カ</text>
-</g>
-<g class="col" style="animation-duration:2.48s;animation-delay:3.04s">
-<text x="74" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="74" y="18" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">ウ</text>
-<text x="74" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">0</text>
-<text x="74" y="54" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">ホ</text>
-<text x="74" y="72" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">モ</text>
-<text x="74" y="90" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">ク</text>
-</g>
-<g class="col" style="animation-duration:2.32s;animation-delay:0.44s">
-<text x="84" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">9</text>
-<text x="84" y="18" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">ネ</text>
-<text x="84" y="36" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">ユ</text>
-<text x="84" y="54" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">ス</text>
-<text x="84" y="72" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">ン</text>
-<text x="84" y="90" fill="#2ea043" opacity="0.49" font-family="monospace" font-size="14">オ</text>
-<text x="84" y="108" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">ウ</text>
-<text x="84" y="126" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ロ</text>
-</g>
-<g class="col" style="animation-duration:2.46s;animation-delay:2.04s">
-<text x="94" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">9</text>
-<text x="94" y="18" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">キ</text>
-<text x="94" y="36" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ノ</text>
-<text x="94" y="54" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">ツ</text>
-<text x="94" y="72" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">ホ</text>
-</g>
-<g class="col" style="animation-duration:2.94s;animation-delay:2.94s">
-<text x="104" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ロ</text>
-<text x="104" y="18" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">ツ</text>
-<text x="104" y="36" fill="#2ea043" opacity="0.41" font-family="monospace" font-size="14">ヲ</text>
-<text x="104" y="54" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">ワ</text>
-<text x="104" y="72" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">レ</text>
-</g>
-<g class="col" style="animation-duration:2.2s;animation-delay:1.78s">
-<text x="114" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">サ</text>
-<text x="114" y="18" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ホ</text>
-<text x="114" y="36" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">ノ</text>
-<text x="114" y="54" fill="#2ea043" opacity="0.48" font-family="monospace" font-size="14">ツ</text>
-<text x="114" y="72" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">ル</text>
-</g>
-<g class="col" style="animation-duration:2.28s;animation-delay:1.16s">
-<text x="124" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ソ</text>
-<text x="124" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">6</text>
-<text x="124" y="36" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">ウ</text>
-<text x="124" y="54" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">5</text>
-</g>
-<g class="col" style="animation-duration:2.05s;animation-delay:4.1s">
-<text x="134" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ン</text>
-<text x="134" y="18" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ナ</text>
-<text x="134" y="36" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">セ</text>
-<text x="134" y="54" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">レ</text>
-<text x="134" y="72" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ミ</text>
-<text x="134" y="90" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ハ</text>
-<text x="134" y="108" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">レ</text>
-<text x="134" y="126" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ホ</text>
-</g>
-<g class="col" style="animation-duration:2.05s;animation-delay:2.71s">
-<text x="144" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">チ</text>
-<text x="144" y="18" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">1</text>
-<text x="144" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ヨ</text>
-<text x="144" y="54" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">フ</text>
-<text x="144" y="72" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">ヨ</text>
-<text x="144" y="90" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ハ</text>
-<text x="144" y="108" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">ネ</text>
-<text x="144" y="126" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ソ</text>
-</g>
-<g class="col" style="animation-duration:3.02s;animation-delay:3.28s">
-<text x="154" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">9</text>
-<text x="154" y="18" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">ク</text>
-<text x="154" y="36" fill="#2ea043" opacity="0.41" font-family="monospace" font-size="14">コ</text>
-<text x="154" y="54" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ル</text>
-</g>
-<g class="col" style="animation-duration:3.02s;animation-delay:0.63s">
-<text x="164" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">ノ</text>
-<text x="164" y="18" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ラ</text>
-<text x="164" y="36" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ホ</text>
-<text x="164" y="54" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">メ</text>
-<text x="164" y="72" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">チ</text>
-<text x="164" y="90" fill="#2ea043" opacity="0.48" font-family="monospace" font-size="14">ヤ</text>
-<text x="164" y="108" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">9</text>
-</g>
-<g class="col" style="animation-duration:1.81s;animation-delay:3.97s">
-<text x="174" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">2</text>
-<text x="174" y="18" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ツ</text>
-<text x="174" y="36" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">3</text>
-<text x="174" y="54" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">レ</text>
-<text x="174" y="72" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ニ</text>
-<text x="174" y="90" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ク</text>
-<text x="174" y="108" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">テ</text>
-<text x="174" y="126" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">フ</text>
-</g>
-<g class="col" style="animation-duration:3.32s;animation-delay:2.79s">
-<text x="184" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ム</text>
-<text x="184" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">2</text>
-<text x="184" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">シ</text>
-<text x="184" y="54" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">ム</text>
-<text x="184" y="72" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">キ</text>
-<text x="184" y="90" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">9</text>
-</g>
-<g class="col" style="animation-duration:3.46s;animation-delay:5.05s">
-<text x="194" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">コ</text>
-<text x="194" y="18" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">ネ</text>
-<text x="194" y="36" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">2</text>
-<text x="194" y="54" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">サ</text>
-<text x="194" y="72" fill="#2ea043" opacity="0.7" font-family="monospace" font-size="14">モ</text>
-</g>
-<g class="col" style="animation-duration:2.23s;animation-delay:3.12s">
-<text x="204" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ナ</text>
-<text x="204" y="18" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">ミ</text>
-<text x="204" y="36" fill="#2ea043" opacity="0.41" font-family="monospace" font-size="14">イ</text>
-<text x="204" y="54" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">ク</text>
-<text x="204" y="72" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ネ</text>
-<text x="204" y="90" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">7</text>
-<text x="204" y="108" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">5</text>
-<text x="204" y="126" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ト</text>
-</g>
-<g class="col" style="animation-duration:3.17s;animation-delay:4.21s">
-<text x="214" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">カ</text>
-<text x="214" y="18" fill="#2ea043" opacity="0.58" font-family="monospace" font-size="14">0</text>
-<text x="214" y="36" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ミ</text>
-<text x="214" y="54" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">6</text>
-</g>
-<g class="col" style="animation-duration:2.89s;animation-delay:5.3s">
-<text x="224" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ロ</text>
-<text x="224" y="18" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">マ</text>
-<text x="224" y="36" fill="#2ea043" opacity="0.58" font-family="monospace" font-size="14">ヤ</text>
-<text x="224" y="54" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">サ</text>
-<text x="224" y="72" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">チ</text>
-</g>
-<g class="col" style="animation-duration:2.59s;animation-delay:2.85s">
-<text x="234" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">2</text>
-<text x="234" y="18" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">0</text>
-<text x="234" y="36" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ヲ</text>
-<text x="234" y="54" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">ス</text>
-<text x="234" y="72" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">ン</text>
-<text x="234" y="90" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ト</text>
-<text x="234" y="108" fill="#2ea043" opacity="0.41" font-family="monospace" font-size="14">ハ</text>
-<text x="234" y="126" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ロ</text>
-</g>
-<g class="col" style="animation-duration:2.8s;animation-delay:3.24s">
-<text x="244" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">タ</text>
-<text x="244" y="18" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">ソ</text>
-<text x="244" y="36" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">オ</text>
-<text x="244" y="54" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">ニ</text>
-</g>
-<g class="col" style="animation-duration:3.43s;animation-delay:4.73s">
-<text x="254" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">オ</text>
-<text x="254" y="18" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">ン</text>
-<text x="254" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ル</text>
-<text x="254" y="54" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">エ</text>
-</g>
-<g class="col" style="animation-duration:2.77s;animation-delay:3.98s">
-<text x="264" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ム</text>
-<text x="264" y="18" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">タ</text>
-<text x="264" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ツ</text>
-<text x="264" y="54" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ロ</text>
-</g>
-<g class="col" style="animation-duration:2.99s;animation-delay:1.95s">
-<text x="274" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ユ</text>
-<text x="274" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">マ</text>
-<text x="274" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">タ</text>
-<text x="274" y="54" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">4</text>
-<text x="274" y="72" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">マ</text>
-<text x="274" y="90" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">5</text>
-<text x="274" y="108" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ヒ</text>
-<text x="274" y="126" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">ス</text>
-</g>
-<g class="col" style="animation-duration:2.52s;animation-delay:1.87s">
-<text x="284" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ホ</text>
-<text x="284" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">9</text>
-<text x="284" y="36" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">0</text>
-<text x="284" y="54" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">エ</text>
-<text x="284" y="72" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">ワ</text>
-<text x="284" y="90" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">レ</text>
-<text x="284" y="108" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">レ</text>
-</g>
-<g class="col" style="animation-duration:2.56s;animation-delay:1.53s">
-<text x="294" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">タ</text>
-<text x="294" y="18" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">ス</text>
-<text x="294" y="36" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ス</text>
-<text x="294" y="54" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">モ</text>
-</g>
-<g class="col" style="animation-duration:1.98s;animation-delay:3.59s">
-<text x="304" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">9</text>
-<text x="304" y="18" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">オ</text>
-<text x="304" y="36" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">ヘ</text>
-<text x="304" y="54" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">5</text>
-<text x="304" y="72" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">9</text>
-</g>
-<g class="col" style="animation-duration:2.18s;animation-delay:2.21s">
-<text x="314" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">7</text>
-<text x="314" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">ア</text>
-<text x="314" y="36" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">カ</text>
-<text x="314" y="54" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">2</text>
-<text x="314" y="72" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">8</text>
-<text x="314" y="90" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">タ</text>
-<text x="314" y="108" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">サ</text>
-<text x="314" y="126" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">ヒ</text>
-</g>
-<g class="col" style="animation-duration:3.21s;animation-delay:2.5s">
-<text x="324" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">サ</text>
-<text x="324" y="18" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">ノ</text>
-<text x="324" y="36" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ア</text>
-<text x="324" y="54" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ノ</text>
-</g>
-<g class="col" style="animation-duration:2.33s;animation-delay:5.33s">
-<text x="334" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ヲ</text>
-<text x="334" y="18" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">0</text>
-<text x="334" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">4</text>
-<text x="334" y="54" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">ヤ</text>
-<text x="334" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ロ</text>
-<text x="334" y="90" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">ン</text>
-<text x="334" y="108" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ミ</text>
-</g>
-<g class="col" style="animation-duration:3.45s;animation-delay:2.92s">
-<text x="344" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">1</text>
-<text x="344" y="18" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">モ</text>
-<text x="344" y="36" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">エ</text>
-<text x="344" y="54" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">1</text>
-<text x="344" y="72" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">ナ</text>
-<text x="344" y="90" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">エ</text>
-<text x="344" y="108" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">エ</text>
-<text x="344" y="126" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ヨ</text>
-</g>
-<g class="col" style="animation-duration:1.92s;animation-delay:4.74s">
-<text x="354" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ム</text>
-<text x="354" y="18" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">カ</text>
-<text x="354" y="36" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">8</text>
-<text x="354" y="54" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">シ</text>
-</g>
-<g class="col" style="animation-duration:2.98s;animation-delay:3.11s">
-<text x="364" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ク</text>
-<text x="364" y="18" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ユ</text>
-<text x="364" y="36" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">タ</text>
-<text x="364" y="54" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">ヨ</text>
-<text x="364" y="72" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ラ</text>
-<text x="364" y="90" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">ウ</text>
-<text x="364" y="108" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">リ</text>
-</g>
-<g class="col" style="animation-duration:2.04s;animation-delay:3.55s">
-<text x="374" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">チ</text>
-<text x="374" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">セ</text>
-<text x="374" y="36" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ロ</text>
-<text x="374" y="54" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ン</text>
-<text x="374" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ナ</text>
-<text x="374" y="90" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">タ</text>
-</g>
-<g class="col" style="animation-duration:1.93s;animation-delay:1.17s">
-<text x="384" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">ナ</text>
-<text x="384" y="18" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">2</text>
-<text x="384" y="36" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">オ</text>
-<text x="384" y="54" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ア</text>
-<text x="384" y="72" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">ホ</text>
-<text x="384" y="90" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">リ</text>
-<text x="384" y="108" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">ユ</text>
-</g>
-<g class="col" style="animation-duration:3.3s;animation-delay:3.87s">
-<text x="394" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ケ</text>
-<text x="394" y="18" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ヌ</text>
-<text x="394" y="36" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">オ</text>
-<text x="394" y="54" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">タ</text>
-<text x="394" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ネ</text>
-<text x="394" y="90" fill="#2ea043" opacity="0.49" font-family="monospace" font-size="14">テ</text>
-</g>
-<g class="col" style="animation-duration:1.99s;animation-delay:4.83s">
-<text x="404" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="404" y="18" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">レ</text>
-<text x="404" y="36" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">メ</text>
-<text x="404" y="54" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">ア</text>
-<text x="404" y="72" fill="#2ea043" opacity="0.58" font-family="monospace" font-size="14">ロ</text>
-<text x="404" y="90" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">6</text>
-<text x="404" y="108" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ヤ</text>
-<text x="404" y="126" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ト</text>
-</g>
-<g class="col" style="animation-duration:2.18s;animation-delay:1.89s">
-<text x="414" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ク</text>
-<text x="414" y="18" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">キ</text>
-<text x="414" y="36" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">1</text>
-<text x="414" y="54" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">ヤ</text>
-<text x="414" y="72" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">コ</text>
-<text x="414" y="90" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ツ</text>
-</g>
-<g class="col" style="animation-duration:3.29s;animation-delay:0.24s">
-<text x="424" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ム</text>
-<text x="424" y="18" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">ミ</text>
-<text x="424" y="36" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">チ</text>
-<text x="424" y="54" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">8</text>
-<text x="424" y="72" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">エ</text>
-<text x="424" y="90" fill="#2ea043" opacity="0.48" font-family="monospace" font-size="14">カ</text>
-</g>
-<g class="col" style="animation-duration:3.07s;animation-delay:3.08s">
-<text x="434" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">3</text>
-<text x="434" y="18" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">ケ</text>
-<text x="434" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ル</text>
-<text x="434" y="54" fill="#2ea043" opacity="0.7" font-family="monospace" font-size="14">チ</text>
-<text x="434" y="72" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">サ</text>
-<text x="434" y="90" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">1</text>
-</g>
-<g class="col" style="animation-duration:2.46s;animation-delay:3.04s">
-<text x="444" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">オ</text>
-<text x="444" y="18" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">ヲ</text>
-<text x="444" y="36" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">コ</text>
-<text x="444" y="54" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">モ</text>
-</g>
-<g class="col" style="animation-duration:2.18s;animation-delay:1.37s">
-<text x="454" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">ケ</text>
-<text x="454" y="18" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ウ</text>
-<text x="454" y="36" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ト</text>
-<text x="454" y="54" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ネ</text>
-<text x="454" y="72" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">4</text>
-<text x="454" y="90" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">9</text>
-<text x="454" y="108" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">ウ</text>
-</g>
-<g class="col" style="animation-duration:2.92s;animation-delay:0.85s">
-<text x="464" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ヌ</text>
-<text x="464" y="18" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">3</text>
-<text x="464" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ヤ</text>
-<text x="464" y="54" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">9</text>
-</g>
-<g class="col" style="animation-duration:1.84s;animation-delay:4.05s">
-<text x="474" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">9</text>
-<text x="474" y="18" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">サ</text>
-<text x="474" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">5</text>
-<text x="474" y="54" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">5</text>
-<text x="474" y="72" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">シ</text>
-</g>
-<g class="col" style="animation-duration:2.28s;animation-delay:4.33s">
-<text x="484" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">4</text>
-<text x="484" y="18" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">ヒ</text>
-<text x="484" y="36" fill="#2ea043" opacity="0.62" font-family="monospace" font-size="14">5</text>
-<text x="484" y="54" fill="#2ea043" opacity="0.25" font-family="monospace" font-size="14">ロ</text>
-<text x="484" y="72" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">9</text>
-<text x="484" y="90" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">1</text>
-</g>
-<g class="col" style="animation-duration:2.16s;animation-delay:5.05s">
-<text x="494" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ノ</text>
-<text x="494" y="18" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">9</text>
-<text x="494" y="36" fill="#2ea043" opacity="0.48" font-family="monospace" font-size="14">ウ</text>
-<text x="494" y="54" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">8</text>
-</g>
-<g class="col" style="animation-duration:2.15s;animation-delay:1.81s">
-<text x="504" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ト</text>
-<text x="504" y="18" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">6</text>
-<text x="504" y="36" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">4</text>
-<text x="504" y="54" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">9</text>
-<text x="504" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ソ</text>
-<text x="504" y="90" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">ソ</text>
-</g>
-<g class="col" style="animation-duration:3.02s;animation-delay:4.64s">
-<text x="514" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">3</text>
-<text x="514" y="18" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ツ</text>
-<text x="514" y="36" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">ヌ</text>
-<text x="514" y="54" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">レ</text>
-</g>
-<g class="col" style="animation-duration:2.87s;animation-delay:1.9s">
-<text x="524" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">イ</text>
-<text x="524" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ク</text>
-<text x="524" y="36" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">チ</text>
-<text x="524" y="54" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">シ</text>
-<text x="524" y="72" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">ヨ</text>
-<text x="524" y="90" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">チ</text>
-</g>
-<g class="col" style="animation-duration:1.88s;animation-delay:2.4s">
-<text x="534" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">フ</text>
-<text x="534" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ラ</text>
-<text x="534" y="36" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">ム</text>
-<text x="534" y="54" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ク</text>
-<text x="534" y="72" fill="#2ea043" opacity="0.63" font-family="monospace" font-size="14">ノ</text>
-<text x="534" y="90" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ユ</text>
-</g>
-<g class="col" style="animation-duration:1.93s;animation-delay:3.65s">
-<text x="544" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="544" y="18" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">モ</text>
-<text x="544" y="36" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">ワ</text>
-<text x="544" y="54" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">0</text>
-<text x="544" y="72" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">1</text>
-<text x="544" y="90" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">1</text>
-<text x="544" y="108" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">ロ</text>
-<text x="544" y="126" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">ス</text>
-</g>
-<g class="col" style="animation-duration:2.71s;animation-delay:3.67s">
-<text x="554" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">リ</text>
-<text x="554" y="18" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">ナ</text>
-<text x="554" y="36" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ロ</text>
-<text x="554" y="54" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">8</text>
-<text x="554" y="72" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ク</text>
-<text x="554" y="90" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">0</text>
-</g>
-<g class="col" style="animation-duration:3.49s;animation-delay:3.73s">
-<text x="564" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ハ</text>
-<text x="564" y="18" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ヲ</text>
-<text x="564" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">テ</text>
-<text x="564" y="54" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">ヤ</text>
-<text x="564" y="72" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ケ</text>
-<text x="564" y="90" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">ス</text>
-</g>
-<g class="col" style="animation-duration:2.35s;animation-delay:1.16s">
-<text x="574" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">リ</text>
-<text x="574" y="18" fill="#2ea043" opacity="0.63" font-family="monospace" font-size="14">ユ</text>
-<text x="574" y="36" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ト</text>
-<text x="574" y="54" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">ハ</text>
-<text x="574" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ヤ</text>
-</g>
-<g class="col" style="animation-duration:3.23s;animation-delay:5.28s">
-<text x="584" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ラ</text>
-<text x="584" y="18" fill="#2ea043" opacity="0.25" font-family="monospace" font-size="14">レ</text>
-<text x="584" y="36" fill="#2ea043" opacity="0.58" font-family="monospace" font-size="14">ナ</text>
-<text x="584" y="54" fill="#2ea043" opacity="0.63" font-family="monospace" font-size="14">ホ</text>
-<text x="584" y="72" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">ヘ</text>
-<text x="584" y="90" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">ヘ</text>
-<text x="584" y="108" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">ワ</text>
-<text x="584" y="126" fill="#2ea043" opacity="0.45" font-family="monospace" font-size="14">セ</text>
-</g>
-<g class="col" style="animation-duration:2.4s;animation-delay:4.5s">
-<text x="594" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ロ</text>
-<text x="594" y="18" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">カ</text>
-<text x="594" y="36" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">テ</text>
-<text x="594" y="54" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ム</text>
-<text x="594" y="72" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">ロ</text>
-</g>
-<g class="col" style="animation-duration:1.88s;animation-delay:5.41s">
-<text x="604" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ワ</text>
-<text x="604" y="18" fill="#2ea043" opacity="0.67" font-family="monospace" font-size="14">ト</text>
-<text x="604" y="36" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">ソ</text>
-<text x="604" y="54" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">5</text>
-<text x="604" y="72" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ス</text>
-</g>
-<g class="col" style="animation-duration:2.49s;animation-delay:2.2s">
-<text x="614" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">8</text>
-<text x="614" y="18" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">3</text>
-<text x="614" y="36" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">オ</text>
-<text x="614" y="54" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">ホ</text>
-<text x="614" y="72" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ヒ</text>
-<text x="614" y="90" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ル</text>
-<text x="614" y="108" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">ユ</text>
-<text x="614" y="126" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">ス</text>
-</g>
-<g class="col" style="animation-duration:1.99s;animation-delay:2.34s">
-<text x="624" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">レ</text>
-<text x="624" y="18" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">ヲ</text>
-<text x="624" y="36" fill="#2ea043" opacity="0.61" font-family="monospace" font-size="14">ア</text>
-<text x="624" y="54" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">2</text>
-<text x="624" y="72" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">9</text>
-</g>
-<g class="col" style="animation-duration:3.45s;animation-delay:0.67s">
-<text x="634" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="634" y="18" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ヲ</text>
-<text x="634" y="36" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">メ</text>
-<text x="634" y="54" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ホ</text>
-<text x="634" y="72" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">エ</text>
-</g>
-<g class="col" style="animation-duration:3.51s;animation-delay:4.9s">
-<text x="644" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="644" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ホ</text>
-<text x="644" y="36" fill="#2ea043" opacity="0.63" font-family="monospace" font-size="14">ロ</text>
-<text x="644" y="54" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">メ</text>
-<text x="644" y="72" fill="#2ea043" opacity="0.66" font-family="monospace" font-size="14">ヤ</text>
-</g>
-<g class="col" style="animation-duration:2.65s;animation-delay:1.43s">
-<text x="654" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">6</text>
-<text x="654" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">0</text>
-<text x="654" y="36" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">ム</text>
-<text x="654" y="54" fill="#2ea043" opacity="0.64" font-family="monospace" font-size="14">フ</text>
-<text x="654" y="72" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">7</text>
-<text x="654" y="90" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ヤ</text>
-<text x="654" y="108" fill="#2ea043" opacity="0.6" font-family="monospace" font-size="14">ヘ</text>
-<text x="654" y="126" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">サ</text>
-</g>
-<g class="col" style="animation-duration:2.93s;animation-delay:1.51s">
-<text x="664" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">7</text>
-<text x="664" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">ル</text>
-<text x="664" y="36" fill="#2ea043" opacity="0.43" font-family="monospace" font-size="14">ツ</text>
-<text x="664" y="54" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">3</text>
-<text x="664" y="72" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">3</text>
-</g>
-<g class="col" style="animation-duration:3.41s;animation-delay:0.44s">
-<text x="674" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ン</text>
-<text x="674" y="18" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">テ</text>
-<text x="674" y="36" fill="#2ea043" opacity="0.49" font-family="monospace" font-size="14">タ</text>
-<text x="674" y="54" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">ツ</text>
-</g>
-<g class="col" style="animation-duration:2.55s;animation-delay:1.82s">
-<text x="684" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ソ</text>
-<text x="684" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">ノ</text>
-<text x="684" y="36" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">ヲ</text>
-<text x="684" y="54" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">コ</text>
-<text x="684" y="72" fill="#2ea043" opacity="0.49" font-family="monospace" font-size="14">ン</text>
-</g>
-<g class="col" style="animation-duration:3.05s;animation-delay:4.71s">
-<text x="694" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">ヒ</text>
-<text x="694" y="18" fill="#2ea043" opacity="0.53" font-family="monospace" font-size="14">エ</text>
-<text x="694" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">セ</text>
-<text x="694" y="54" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">7</text>
-<text x="694" y="72" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ヒ</text>
-<text x="694" y="90" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ノ</text>
-<text x="694" y="108" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">3</text>
-</g>
-<g class="col" style="animation-duration:3.3s;animation-delay:2.96s">
-<text x="704" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">ノ</text>
-<text x="704" y="18" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">マ</text>
-<text x="704" y="36" fill="#2ea043" opacity="0.59" font-family="monospace" font-size="14">ア</text>
-<text x="704" y="54" fill="#2ea043" opacity="0.57" font-family="monospace" font-size="14">ヌ</text>
-<text x="704" y="72" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ト</text>
-<text x="704" y="90" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">2</text>
-<text x="704" y="108" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ノ</text>
-<text x="704" y="126" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">8</text>
-</g>
-<g class="col" style="animation-duration:2.41s;animation-delay:3.74s">
-<text x="714" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">5</text>
-<text x="714" y="18" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ラ</text>
-<text x="714" y="36" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ソ</text>
-<text x="714" y="54" fill="#2ea043" opacity="0.41" font-family="monospace" font-size="14">ミ</text>
-<text x="714" y="72" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">ソ</text>
-<text x="714" y="90" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ツ</text>
-<text x="714" y="108" fill="#2ea043" opacity="0.44" font-family="monospace" font-size="14">フ</text>
-<text x="714" y="126" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">ミ</text>
-</g>
-<g class="col" style="animation-duration:2.51s;animation-delay:3.1s">
-<text x="724" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">0</text>
-<text x="724" y="18" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">サ</text>
-<text x="724" y="36" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">7</text>
-<text x="724" y="54" fill="#2ea043" opacity="0.52" font-family="monospace" font-size="14">ホ</text>
-<text x="724" y="72" fill="#2ea043" opacity="0.42" font-family="monospace" font-size="14">ケ</text>
-<text x="724" y="90" fill="#2ea043" opacity="0.56" font-family="monospace" font-size="14">リ</text>
-<text x="724" y="108" fill="#2ea043" opacity="0.47" font-family="monospace" font-size="14">モ</text>
-</g>
-<g class="col" style="animation-duration:2.13s;animation-delay:1.43s">
-<text x="734" y="0" fill="#2ea043" opacity="0.9" font-family="monospace" font-size="14">カ</text>
-<text x="734" y="18" fill="#2ea043" opacity="0.51" font-family="monospace" font-size="14">レ</text>
-<text x="734" y="36" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">フ</text>
-<text x="734" y="54" fill="#2ea043" opacity="0.54" font-family="monospace" font-size="14">ケ</text>
-</g>
-<g class="col" style="animation-duration:3.51s;animation-delay:2.32s">
-<text x="744" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">セ</text>
-<text x="744" y="18" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">ホ</text>
-<text x="744" y="36" fill="#2ea043" opacity="0.55" font-family="monospace" font-size="14">ナ</text>
-<text x="744" y="54" fill="#2ea043" opacity="0.65" font-family="monospace" font-size="14">ニ</text>
-<text x="744" y="72" fill="#2ea043" opacity="0.46" font-family="monospace" font-size="14">2</text>
-<text x="744" y="90" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ノ</text>
-</g>
-<g class="col" style="animation-duration:3.51s;animation-delay:1.23s">
-<text x="754" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">マ</text>
-<text x="754" y="18" fill="#2ea043" opacity="0.5" font-family="monospace" font-size="14">イ</text>
-<text x="754" y="36" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">1</text>
-<text x="754" y="54" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">モ</text>
-</g>
-<g class="col" style="animation-duration:2.25s;animation-delay:4.62s">
-<text x="764" y="0" fill="#7ef29a" opacity="0.9" font-family="monospace" font-size="14">3</text>
-<text x="764" y="18" fill="#2ea043" opacity="0.69" font-family="monospace" font-size="14">レ</text>
-<text x="764" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">ウ</text>
-<text x="764" y="54" fill="#2ea043" opacity="0.68" font-family="monospace" font-size="14">2</text>
+<g class="col" style="animation-duration:3.06s;animation-delay:5.16s">
+<text x="34" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">イ</text>
+<text x="34" y="18" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">1</text>
+</g>
+<g class="col" style="animation-duration:2.73s;animation-delay:1.63s">
+<text x="54" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ヨ</text>
+<text x="54" y="18" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">フ</text>
+</g>
+<g class="col" style="animation-duration:4.25s;animation-delay:2.94s">
+<text x="74" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ヤ</text>
+<text x="74" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ス</text>
+</g>
+<g class="col" style="animation-duration:2.9s;animation-delay:2.96s">
+<text x="94" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ヨ</text>
+<text x="94" y="18" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ツ</text>
+<text x="94" y="36" fill="#2ea043" opacity="0.12" font-family="monospace" font-size="14">5</text>
+<text x="94" y="54" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">9</text>
+<text x="94" y="72" fill="#2ea043" opacity="0.25" font-family="monospace" font-size="14">ア</text>
+</g>
+<g class="col" style="animation-duration:3.45s;animation-delay:2.51s">
+<text x="114" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">コ</text>
+<text x="114" y="18" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">セ</text>
+<text x="114" y="36" fill="#2ea043" opacity="0.15" font-family="monospace" font-size="14">2</text>
+<text x="114" y="54" fill="#2ea043" opacity="0.39" font-family="monospace" font-size="14">ニ</text>
+</g>
+<g class="col" style="animation-duration:3.84s;animation-delay:6.81s">
+<text x="134" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ラ</text>
+<text x="134" y="18" fill="#2ea043" opacity="0.12" font-family="monospace" font-size="14">チ</text>
+<text x="134" y="36" fill="#2ea043" opacity="0.16" font-family="monospace" font-size="14">5</text>
+<text x="134" y="54" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ウ</text>
+</g>
+<g class="col" style="animation-duration:4.65s;animation-delay:4.04s">
+<text x="154" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">カ</text>
+<text x="154" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ヤ</text>
+<text x="154" y="36" fill="#2ea043" opacity="0.17" font-family="monospace" font-size="14">テ</text>
+<text x="154" y="54" fill="#2ea043" opacity="0.14" font-family="monospace" font-size="14">7</text>
+<text x="154" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ル</text>
+</g>
+<g class="col" style="animation-duration:3.22s;animation-delay:0.56s">
+<text x="174" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ウ</text>
+<text x="174" y="18" fill="#2ea043" opacity="0.17" font-family="monospace" font-size="14">ロ</text>
+</g>
+<g class="col" style="animation-duration:4.09s;animation-delay:2.55s">
+<text x="194" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">9</text>
+<text x="194" y="18" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">キ</text>
+<text x="194" y="36" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">ノ</text>
+</g>
+<g class="col" style="animation-duration:4.21s;animation-delay:0.5s">
+<text x="214" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ヌ</text>
+<text x="214" y="18" fill="#2ea043" opacity="0.23" font-family="monospace" font-size="14">セ</text>
+<text x="214" y="36" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ロ</text>
+<text x="214" y="54" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ツ</text>
+</g>
+<g class="col" style="animation-duration:3.45s;animation-delay:6.93s">
+<text x="234" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">モ</text>
+<text x="234" y="18" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">0</text>
+<text x="234" y="36" fill="#2ea043" opacity="0.16" font-family="monospace" font-size="14">タ</text>
+</g>
+<g class="col" style="animation-duration:2.64s;animation-delay:5.75s">
+<text x="254" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ワ</text>
+<text x="254" y="18" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">ナ</text>
+<text x="254" y="36" fill="#2ea043" opacity="0.17" font-family="monospace" font-size="14">7</text>
+</g>
+<g class="col" style="animation-duration:3.92s;animation-delay:5.03s">
+<text x="274" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ハ</text>
+<text x="274" y="18" fill="#2ea043" opacity="0.22" font-family="monospace" font-size="14">ツ</text>
+<text x="274" y="36" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">オ</text>
+<text x="274" y="54" fill="#2ea043" opacity="0.19" font-family="monospace" font-size="14">セ</text>
+</g>
+<g class="col" style="animation-duration:4.11s;animation-delay:1.0s">
+<text x="294" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">レ</text>
+<text x="294" y="18" fill="#2ea043" opacity="0.19" font-family="monospace" font-size="14">ミ</text>
+<text x="294" y="36" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">ハ</text>
+</g>
+<g class="col" style="animation-duration:4.37s;animation-delay:3.0s">
+<text x="314" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">タ</text>
+<text x="314" y="18" fill="#2ea043" opacity="0.12" font-family="monospace" font-size="14">1</text>
+<text x="314" y="36" fill="#2ea043" opacity="0.24" font-family="monospace" font-size="14">ヤ</text>
+</g>
+<g class="col" style="animation-duration:2.62s;animation-delay:0.77s">
+<text x="334" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ネ</text>
+<text x="334" y="18" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ソ</text>
+<text x="334" y="36" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">ケ</text>
+<text x="334" y="54" fill="#2ea043" opacity="0.12" font-family="monospace" font-size="14">ム</text>
+<text x="334" y="72" fill="#2ea043" opacity="0.16" font-family="monospace" font-size="14">ミ</text>
+</g>
+<g class="col" style="animation-duration:3.46s;animation-delay:4.17s">
+<text x="354" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">4</text>
+<text x="354" y="18" fill="#2ea043" opacity="0.18" font-family="monospace" font-size="14">ワ</text>
+<text x="354" y="36" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">フ</text>
+</g>
+<g class="col" style="animation-duration:2.79s;animation-delay:6.19s">
+<text x="374" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">メ</text>
+<text x="374" y="18" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">チ</text>
+<text x="374" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ヤ</text>
+<text x="374" y="54" fill="#2ea043" opacity="0.21" font-family="monospace" font-size="14">9</text>
+<text x="374" y="72" fill="#2ea043" opacity="0.15" font-family="monospace" font-size="14">ア</text>
+</g>
+<g class="col" style="animation-duration:2.9s;animation-delay:0.02s">
+<text x="394" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">3</text>
+<text x="394" y="18" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">レ</text>
+<text x="394" y="36" fill="#2ea043" opacity="0.31" font-family="monospace" font-size="14">ニ</text>
+<text x="394" y="54" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ク</text>
+</g>
+<g class="col" style="animation-duration:4.68s;animation-delay:2.09s">
+<text x="414" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ム</text>
+<text x="414" y="18" fill="#2ea043" opacity="0.4" font-family="monospace" font-size="14">2</text>
+<text x="414" y="36" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">シ</text>
+<text x="414" y="54" fill="#2ea043" opacity="0.1" font-family="monospace" font-size="14">ム</text>
+</g>
+<g class="col" style="animation-duration:4.88s;animation-delay:6.46s">
+<text x="434" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">コ</text>
+<text x="434" y="18" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ネ</text>
+<text x="434" y="36" fill="#2ea043" opacity="0.19" font-family="monospace" font-size="14">2</text>
+</g>
+<g class="col" style="animation-duration:2.78s;animation-delay:2.54s">
+<text x="454" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ラ</text>
+<text x="454" y="18" fill="#2ea043" opacity="0.3" font-family="monospace" font-size="14">ナ</text>
+</g>
+<g class="col" style="animation-duration:2.71s;animation-delay:3.4s">
+<text x="474" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">タ</text>
+<text x="474" y="18" fill="#2ea043" opacity="0.38" font-family="monospace" font-size="14">エ</text>
+<text x="474" y="36" fill="#2ea043" opacity="0.14" font-family="monospace" font-size="14">タ</text>
+<text x="474" y="54" fill="#2ea043" opacity="0.13" font-family="monospace" font-size="14">ユ</text>
+</g>
+<g class="col" style="animation-duration:2.82s;animation-delay:3.33s">
+<text x="494" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">2</text>
+<text x="494" y="18" fill="#2ea043" opacity="0.13" font-family="monospace" font-size="14">モ</text>
+</g>
+<g class="col" style="animation-duration:4.91s;animation-delay:6.5s">
+<text x="514" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">チ</text>
+<text x="514" y="18" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">メ</text>
+<text x="514" y="36" fill="#2ea043" opacity="0.18" font-family="monospace" font-size="14">9</text>
+</g>
+<g class="col" style="animation-duration:4.12s;animation-delay:3.07s">
+<text x="534" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ン</text>
+<text x="534" y="18" fill="#2ea043" opacity="0.28" font-family="monospace" font-size="14">ト</text>
+<text x="534" y="36" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">ハ</text>
+</g>
+<g class="col" style="animation-duration:3.88s;animation-delay:4.12s">
+<text x="554" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ク</text>
+<text x="554" y="18" fill="#2ea043" opacity="0.16" font-family="monospace" font-size="14">タ</text>
+<text x="554" y="36" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">ソ</text>
+<text x="554" y="54" fill="#2ea043" opacity="0.18" font-family="monospace" font-size="14">オ</text>
+<text x="554" y="72" fill="#2ea043" opacity="0.25" font-family="monospace" font-size="14">ニ</text>
+</g>
+<g class="col" style="animation-duration:3.07s;animation-delay:6.34s">
+<text x="574" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">オ</text>
+<text x="574" y="18" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ン</text>
+</g>
+<g class="col" style="animation-duration:3.04s;animation-delay:0.93s">
+<text x="594" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">オ</text>
+<text x="594" y="18" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ム</text>
+<text x="594" y="36" fill="#2ea043" opacity="0.13" font-family="monospace" font-size="14">タ</text>
+<text x="594" y="54" fill="#2ea043" opacity="0.23" font-family="monospace" font-size="14">ツ</text>
+</g>
+<g class="col" style="animation-duration:2.74s;animation-delay:3.02s">
+<text x="614" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">タ</text>
+<text x="614" y="18" fill="#2ea043" opacity="0.18" font-family="monospace" font-size="14">4</text>
+<text x="614" y="36" fill="#2ea043" opacity="0.1" font-family="monospace" font-size="14">マ</text>
+<text x="614" y="54" fill="#2ea043" opacity="0.33" font-family="monospace" font-size="14">5</text>
+<text x="614" y="72" fill="#2ea043" opacity="0.29" font-family="monospace" font-size="14">ヒ</text>
+</g>
+<g class="col" style="animation-duration:4.96s;animation-delay:0.69s">
+<text x="634" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ヒ</text>
+<text x="634" y="18" fill="#2ea043" opacity="0.18" font-family="monospace" font-size="14">ホ</text>
+<text x="634" y="36" fill="#2ea043" opacity="0.32" font-family="monospace" font-size="14">9</text>
+<text x="634" y="54" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">0</text>
+<text x="634" y="72" fill="#2ea043" opacity="0.23" font-family="monospace" font-size="14">エ</text>
+</g>
+<g class="col" style="animation-duration:2.98s;animation-delay:3.14s">
+<text x="654" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">0</text>
+<text x="654" y="18" fill="#2ea043" opacity="0.1" font-family="monospace" font-size="14">ニ</text>
+<text x="654" y="36" fill="#2ea043" opacity="0.12" font-family="monospace" font-size="14">5</text>
+<text x="654" y="54" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">9</text>
+<text x="654" y="72" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">キ</text>
+</g>
+<g class="col" style="animation-duration:3.61s;animation-delay:6.03s">
+<text x="674" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">シ</text>
+<text x="674" y="18" fill="#2ea043" opacity="0.26" font-family="monospace" font-size="14">ツ</text>
+<text x="674" y="36" fill="#2ea043" opacity="0.35" font-family="monospace" font-size="14">ホ</text>
+<text x="674" y="54" fill="#2ea043" opacity="0.27" font-family="monospace" font-size="14">タ</text>
+<text x="674" y="72" fill="#2ea043" opacity="0.14" font-family="monospace" font-size="14">9</text>
+</g>
+<g class="col" style="animation-duration:4.59s;animation-delay:6.78s">
+<text x="694" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">エ</text>
+<text x="694" y="18" fill="#2ea043" opacity="0.14" font-family="monospace" font-size="14">レ</text>
+</g>
+<g class="col" style="animation-duration:4.66s;animation-delay:6.32s">
+<text x="714" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">サ</text>
+<text x="714" y="18" fill="#2ea043" opacity="0.19" font-family="monospace" font-size="14">ヒ</text>
+<text x="714" y="36" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">ミ</text>
+</g>
+<g class="col" style="animation-duration:4.46s;animation-delay:3.19s">
+<text x="734" y="0" fill="#7ef29a" opacity="0.75" font-family="monospace" font-size="14">ノ</text>
+<text x="734" y="18" fill="#2ea043" opacity="0.34" font-family="monospace" font-size="14">ア</text>
+<text x="734" y="36" fill="#2ea043" opacity="0.36" font-family="monospace" font-size="14">ノ</text>
+</g>
+<g class="col" style="animation-duration:2.89s;animation-delay:2.08s">
+<text x="754" y="0" fill="#2ea043" opacity="0.75" font-family="monospace" font-size="14">ヲ</text>
+<text x="754" y="18" fill="#2ea043" opacity="0.37" font-family="monospace" font-size="14">0</text>
+<text x="754" y="36" fill="#2ea043" opacity="0.16" font-family="monospace" font-size="14">4</text>
+<text x="754" y="54" fill="#2ea043" opacity="0.17" font-family="monospace" font-size="14">ヤ</text>
+<text x="754" y="72" fill="#2ea043" opacity="0.13" font-family="monospace" font-size="14">ロ</text>
 </g>
 </g>
 <text x="44" y="198" fill="#4c8f5f" font-family="monospace" font-size="12">$ matrix --auto-update  nightly  </text>
