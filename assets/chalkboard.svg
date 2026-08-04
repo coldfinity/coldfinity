@@ -729,8 +729,8 @@
   <rect x="60" y="60" width="1080" height="1420" rx="4" fill="url(#vignette)"/>
 
   <text x="600" y="150" font-family="'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive" font-size="84" font-weight="bold" fill="#f2efe6" text-anchor="middle" fill-opacity="0.95" >cold∞finity</text>
-  <text x="600" y="236" font-family="'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive" font-size="24" font-weight="normal" fill="#d8e6d8" text-anchor="middle" fill-opacity="0.92" >n. the limit of a system as its temperature approaches</text>
-  <text x="600" y="268" font-family="'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive" font-size="24" font-weight="normal" fill="#d8e6d8" text-anchor="middle" fill-opacity="0.92" >absolute zero — also, a mathematician who never stopped coding</text>
+  <text x="600" y="236" font-family="'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive" font-size="24" font-weight="normal" fill="#d8e6d8" text-anchor="middle" fill-opacity="0.92" >n. the limit of a system as its temperature approaches absolute zero</text>
+<text x="600" y="268" font-family="'Chalkboard SE', 'Chalkboard', 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', cursive" font-size="24" font-weight="normal" fill="#d8e6d8" text-anchor="middle" fill-opacity="0.92" >— also, a mathematician who never stopped coding</text>
 
   <text x="600.0" y="360" font-family="'JetBrains Mono', 'Fira Code', 'DejaVu Sans Mono', 'Menlo', 'Consolas', monospace" font-size="34" fill="#f2efe6" text-anchor="middle" fill-opacity="0.94">
     <tspan>lim</tspan><tspan baseline-shift="sub" font-size="20">T → 0</tspan><tspan> S(T) = S</tspan><tspan baseline-shift="sub" font-size="20">0</tspan>
